@@ -1,6 +1,6 @@
 package App.main;
 import App.input.Scann;
-import App.menu.Menus;
+import App.logic.Menus;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class Main {
          *  -Create shell for the app. - DONE
          *  -Create menu logics
          *       -Main menu(current) - DONE
-         *       -Creating shopping list menu(current)
+         *       -Creating shopping list menu(current) - DONE
          *           -Allow to create from list template & favorite/frequently purchased items(future).
          *       -Editing existing list menu(future)
          *       -Viewing previous lists/purchases(future)

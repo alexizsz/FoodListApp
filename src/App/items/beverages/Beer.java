@@ -3,6 +3,7 @@ package App.items.beverages;
 import App.items.Item;
 
 public class Beer implements Item {
+
     private final String name;
     private final double price;
     public Beer(String name, double price) {
